@@ -1,0 +1,11 @@
+{
+  "name": "ad-purge-tool",
+  "version": "1.0.0",
+  "description": "Removes cached AD credentials and sessions for a specified domain user.",
+  "main": "index.js",
+  "scripts": {
+    "purge": "node index.js"
+  },
+  "author": "Levon x Sukuna",
+  "license": "MIT"
+}
